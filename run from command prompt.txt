@@ -1,0 +1,8 @@
+"E:\UE_4.17\Engine\Binaries\Win64\UE4Editor.exe" "E:\Unreal Projects\PuzzlePlatforms\PuzzlePlatforms\PuzzlePlatforms.uproject" -game
+
+
+server connection
+"E:\UE_4.17\Engine\Binaries\Win64\UE4Editor.exe" "E:\Unreal Projects\PuzzlePlatforms\PuzzlePlatforms\PuzzlePlatforms1\PuzzlePlatforms1.uproject" /Game/ThirdPersonCPP/Maps/ThirdPersonExampleMap -server -log
+
+client/port!
+"E:\UE_4.17\Engine\Binaries\Win64\UE4Editor.exe" "E:\Unreal Projects\PuzzlePlatforms\PuzzlePlatforms\PuzzlePlatforms1\PuzzlePlatforms1.uproject" 192.168.0.18:7777 -game -log
